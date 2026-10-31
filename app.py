@@ -25,7 +25,7 @@ def read_resource(name):
 
 
 EVENTS = [
-    {"id": "hack-2026", "title": "Campus Hackathon", "category": "Hackathon", "date": "24 October 2026", "venue": "Innovation Lab"},
+    {"id": "hack-2026", "title": "Campus Hackathon v1", "category": "Hackathon", "date": "24 October 2026", "venue": "Innovation Lab"},
     {"id": "cloud-workshop", "title": "Cloud & DevOps Workshop", "category": "Workshop", "date": "23 October 2026", "venue": "Seminar Hall A"},
     {"id": "code-sprint", "title": "Code Sprint", "category": "Coding contest", "date": "29 October 2026", "venue": "Computer Centre"},
     {"id": "robo-arena", "title": "Robo Arena", "category": "Robotics", "date": "31 October 2026", "venue": "Main Auditorium"},
